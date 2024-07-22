@@ -12,7 +12,7 @@ I'm Thota Saikumar, an enthusiastic learner passionate about exploring new techn
 ### PortFolio
 **Description**: Portfolio with React Js.                                                                                              
 **Technologies**: React Js.                                                                
-**Link**: [react-js-portfolio](https://github.com/SAIKUMAR039/react-js-portfolio) 🎬
+**Link**: [react-js-portfolio](https://github.com/SAIKUMAR039/react-js-portfolio) 
 
 ### to-do-list
 **Description**: A simple to-do list application.  
