@@ -1,46 +1,61 @@
-# Thota Saikumar👋
+# Thota Saikumar 👋  
 
-**Hello and welcome to my GitHub profile!**
+**Welcome to my GitHub profile!**  
 
-## About Me
+## About Me  
 
-I'm Thota Saikumar, an enthusiastic learner passionate about exploring new technologies and programming languages. I'm constantly expanding my skills through various projects and challenges. 🌱
-
+I'm Thota Saikumar, an aspiring **Data Scientist** and **Product Specialist** with a strong foundation in **web technologies**, **data science**, and a passion for learning and implementing new technologies. I'm a Computer Science Engineering student at **SR University, Warangal**, who enjoys solving problems and building innovative solutions through programming. 🌱  
 
 ## Projects
 
-### PortFolio
-**Description**: Portfolio with React Js.                                                                                              
-**Technologies**: React Js.                                                                
-**Link**: [react-js-portfolio](https://github.com/SAIKUMAR039/react-js-portfolio) 
+### Student-Utils
+**Description**: A web application designed to help students manage daily tasks, assignments, and exams. It also provides a platform for students to interact and share knowledge.  
+**Technologies**: HTML, CSS, JavaScript  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/student-utils)  
+**Live Demo**: [student-utils.vercel.app](https://student-utils.vercel.app)
 
-### to-do-list
-**Description**: A simple to-do list application.  
-**Technologies**: CSS  
-**Link**: [to-do-list website](#) 📝
+### Portfolio UI
+**Description**: A personal portfolio website showcasing my projects, skills, and contact information. Built with a focus on responsive design and user experience.  
+**Technologies**: React, Tailwind CSS  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/portfolio-ui)  
+**Live Demo**: [portfolio-sai-kumar.vercel.app](https://portfolio-sai-kumar.vercel.app)
 
-### stop-watch
-**Description**: A JavaScript-based stopwatch.  
-**Technologies**: JavaScript  
-**Link**: [stop-watch website](#) ⏱️
+### Smart Emergency Alert System Using Air Tags
+**Description**: A smart emergency alert system utilizing Apple AirTags to send alerts to the user's contacts during emergencies.  
+**Technologies**: React, Tailwind CSS  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/air-tag-security)  
+**Live Demo**: [air-tag-security.vercel.app](https://air-tag-security.vercel.app)
 
-### weather-dashboard
-**Description**: A weather dashboard application.  
-**Technologies**: JavaScript  
-**Link**: [weather-dashboard website](#) ☁️
+### ToDo List
+**Description**: A to-do list application that allows users to create, edit, and delete tasks, helping manage daily activities efficiently.  
+**Technologies**: React, Tailwind CSS, Firebase  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/to-do-react-js)  
+**Live Demo**: [to-do-react-js.vercel.app](https://to-do-react-js.vercel.app)
 
+### Weather
+**Description**: A weather forecasting application providing users with real-time weather information for various locations.  
+**Technologies**: React, Tailwind CSS  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/weather-forecast-react-js)  
+**Live Demo**: [weather-forecast-react-js.vercel.app](https://weather-forecast-react-js.vercel.app)
 
+### Bitcoin Price Prediction
+**Description**: A machine learning project that predicts Bitcoin prices using historical data and features like news sentiment analysis.  
+**Technologies**: Python, Scikit-learn, Pandas, Numpy, Matplotlib  
+**Code**: [GitHub Repository](https://github.com/SAIKUMAR039/coin-price-prediction)  
+**Live Demo**: [coin-price-prediction.streamlit.app](https://coin-price-prediction.streamlit.app)
 
-## Star Distribution ✨
-[![Mazie0's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAIKUMAR039&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## Star Distribution ✨  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAIKUMAR039&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-## Skills & Interests
+## Skills & Interests  
 
-- **Languages:** C, JavaScript, CSS, React Js, Next Js (Learning) 💻 
-- **Focus:**  Web development, application development 🌐
+- **Languages & Tools**: C, JavaScript, CSS, React.js, Next.js (Learning)  
+- **Focus Areas**: Web Development, Data Science, Application Development  
+- **Interests**: Exploring new technologies, building products, and solving real-world challenges  
 
-## Let's Connect!
+## Let's Connect!  
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions. 📫
+I'm always excited to collaborate on projects, discuss ideas, and explore opportunities. Feel free to reach out! 📫  
 
-[Visit my GitHub Profile](https://github.com/SAIKUMAR039)
+- [LinkedIn Profile](https://www.linkedin.com/in/sai-kumar-thota-101764252/)  
+- [GitHub Profile](https://github.com/SAIKUMAR039)  
